@@ -30,7 +30,6 @@ The dashboard focuses on the following primary KPIs:
 4. Medium-sized outlets in Tier 3 locations show the highest profitability
 5. Supermarkets generate higher sales volumes, while grocery stores have better item visibility
 
-**NOTE:** This analysis was conducted as part of a project and is for educational purposes only.
 
 ## Binkit Dashboard
 ![Blinkit](https://github.com/user-attachments/assets/5be4727c-d72e-41e2-85ae-056d2feb3804)
